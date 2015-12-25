@@ -1,4 +1,6 @@
-# FP101x - Introduction to Functional Programming
+## FP101x - Introduction to Functional Programming
+Intro to Functional Programming with Haskell taught by Erik Meijer on EdX in Fall of 2015
+
 ![image](https://courses.edx.org/asset-v1:DelftX+FP101x+3T2015+type@asset+block@images_course_image.jpg)
 
 ## Course Homepage
