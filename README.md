@@ -3,6 +3,11 @@ Intro to Functional Programming with Haskell taught by Erik Meijer on EdX in Fal
 
 ![image](https://courses.edx.org/asset-v1:DelftX+FP101x+3T2015+type@asset+block@images_course_image.jpg)
 
+## Certification :neckbeard:
+
+
+![cert](./fp101x-certification.jpg)
+
 ## Course Homepage
 **https://courses.edx.org/courses/course-v1:DelftX+FP101x+3T2015**
 
